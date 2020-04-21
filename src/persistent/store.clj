@@ -1,4 +1,4 @@
-(ns peristent.store
+(ns persistent.store
   (:require [cognitect.aws.client.api   :as aws]
             [cognitect.aws.credentials  :as credentials]
             [clojure.data.json          :as json]

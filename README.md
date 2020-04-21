@@ -1,4 +1,7 @@
 # persistent
+
+![](store.jpg)
+
 A small clojure library for persisting data to various stores
 
     [persistent "0.1.0"]
