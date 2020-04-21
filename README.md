@@ -1,7 +1,7 @@
 # persistent
 A small clojure library for persisting data to various stores
 
-[![Clojars Project](https://img.shields.io/clojars/v/persistent.svg)](https://clojars.org/persistent)
+    [persistent "0.1.0"]
 
 This library has three protocols:
 - `PersistentStore` for reading and writing data to various stores
