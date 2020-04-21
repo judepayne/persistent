@@ -17,4 +17,4 @@ The three types of stores currently implemented are:
 - `S3Store` (an Amazon s3 bucket, instantiated with a `bucket` string).
 - `GithubRepo` (instantiated with a (github) `user`, `repo` and `local-path` into which the repo should be cloned. This store implements the RemoteStore and IssueLog protocols as well as PersistentStore).
 
-local paths should be terminated with a `/`.
+paths should be terminated with a `/`.
